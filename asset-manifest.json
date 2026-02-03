@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.3da7eccf.css",
-    "main.js": "./static/js/main.91c642a7.js",
+    "main.css": "./static/css/main.aef0fab3.css",
+    "main.js": "./static/js/main.b907f806.js",
     "static/js/453.4fc94874.chunk.js": "./static/js/453.4fc94874.chunk.js",
-    "static/media/biomni.mp4": "./static/media/biomni.4ff32d12cabf76dc6932.mp4",
+    "static/media/biomni.mp4": "./static/media/biomni.4f10773427976758dc60.mp4",
     "static/media/cellagent.mp4": "./static/media/cellagent.3cc46840b6c25c3e2319.mp4",
     "static/media/txagent.gif": "./static/media/txagent.8c3cd5927ff49da91150.gif",
     "static/media/biodiscoveryagent.png": "./static/media/biodiscoveryagent.365a046c51fc7a3bc544.png",
-    "static/media/mdagents.gif": "./static/media/mdagents.38f43b4e85f71a1ee450.gif",
+    "static/media/mdagents.gif": "./static/media/mdagents.347d2f416e548397d231.gif",
     "static/media/biochatter.gif": "./static/media/biochatter.c6b3384b12471b53113b.gif",
     "static/media/escargot.png": "./static/media/escargot.a9ecdc5b815efa33d2cc.png",
     "static/media/cellagent.png": "./static/media/cellagent.0eff1efe1732d53970ab.png",
@@ -19,12 +19,12 @@
     "static/media/txagent.png": "./static/media/txagent.6cad8f3a917aec4954d2.png",
     "static/media/autoba.png": "./static/media/autoba.0bf26c2793e27ab73700.png",
     "index.html": "./index.html",
-    "main.3da7eccf.css.map": "./static/css/main.3da7eccf.css.map",
-    "main.91c642a7.js.map": "./static/js/main.91c642a7.js.map",
+    "main.aef0fab3.css.map": "./static/css/main.aef0fab3.css.map",
+    "main.b907f806.js.map": "./static/js/main.b907f806.js.map",
     "453.4fc94874.chunk.js.map": "./static/js/453.4fc94874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3da7eccf.css",
-    "static/js/main.91c642a7.js"
+    "static/css/main.aef0fab3.css",
+    "static/js/main.b907f806.js"
   ]
 }
